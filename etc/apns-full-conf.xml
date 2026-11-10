@@ -40817,7 +40817,7 @@
 
   <apn carrier="ATT Nxtgenphone"
       carrier_id = "1187"
-      apn="nxtgenphone"
+      apn="enhancedphone"
       type="default,mms,supl,fota"
       mmsc="http://mmsc.mobile.att.net"
       mmsproxy="proxy.mobile.att.net"
